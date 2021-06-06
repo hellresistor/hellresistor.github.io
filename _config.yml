@@ -59,3 +59,9 @@ topics:
   - name: Cosmos
     web_url: https://cosmos.network/
     image_url: https://avatars.githubusercontent.com/u/228843?s=200&v=4
+  - name: Whonix
+    web_url: https://github.com/Whonix
+    image_url: https://www.whonix.org/w/images/thumb/b/ba/Whonix-vectorized-logo.png/x500px-Whonix-vectorized-logo.png.pagespeed.ic.sir-oi4LXj.webp
+  - name: Utopia
+    web_url: https://cosmos.network/
+    image_url: https://miro.medium.com/max/1614/1*UfV680UVnnu6UdXgd8GVXg.png
